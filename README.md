@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Assaf</h1>
 <h3 align="center">Software Engineer || Flutter Developer</h3>
 
-- 🔭 I’m currently working on [Book Grocer](https://github.com/mehsen-alk/book_grocer.git)
+- 🔭 I’m currently working on [News App](https://github.com/MohammadAssaf10/News_App.git)
 
 - 🌱 I’m currently learning **Flutter**
 
