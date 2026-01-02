@@ -42,8 +42,11 @@
   <a href="mailto:mhamad234assaf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/Mohamad10Assaf">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/MohammadAssaf10" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+963997806274" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
@@ -55,10 +58,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/Shalaby-VBS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shalaby-VBS">
+<a href="https://github.com/MohammadAssaf10/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MohammadAssaf10">
 </a>
-<a href="https://github.com/Shalaby-VBS?tab=followers"><img src="https://img.shields.io/github/followers/Shalaby-VBS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MohammadAssaf10?tab=followers"><img src="https://img.shields.io/github/followers/MohammadAssaf10?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
 </h3>
